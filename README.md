@@ -1,2 +1,1 @@
-# scripting
 # bash-scripting
