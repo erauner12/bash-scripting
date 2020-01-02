@@ -1,5 +1,6 @@
 #!/bin/bash
 myname="Evan"
+
 function sayMyName {
 	echo $myname
 }
